@@ -42,8 +42,7 @@ h2 {
     flex-flow: row wrap;
     background-color: darkcyan;
     align-items: flex-start;
-    height: 100%;
-    padding-top: 5%;
+    height: 100vh;
     justify-content: space-evenly;
     color:white;
 }
@@ -55,7 +54,9 @@ h2 {
     font-size: 1vw;
 }
 
+#page {
 
+}
 
 
 .about-me-content {
