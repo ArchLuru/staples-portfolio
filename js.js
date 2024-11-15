@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('graphic-link').addEventListener('click', function() {
         document.getElementById("header").style.color = "white";
         document.getElementById('page').innerHTML = `
-    <div class = "cover-card">
+     <div class = "cover-card" style = "padding-top: 12vh;">
         <img src = "birdie1.png" width = "40%">
         <div class = "text">
             <h1 class = "coverheader">Pattern Drawing</h1>
